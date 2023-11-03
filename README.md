@@ -1,1 +1,1 @@
-# VISIT-NOW [CLICK](https://rakshithauppu.github.io/CALCULATOR/)
+# VISIT-NOW [click](https://rakshithauppu.github.io/CALCULATOR/)
