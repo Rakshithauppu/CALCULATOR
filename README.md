@@ -1,1 +1,1 @@
-[# CALCULATOR ](https://rakshithauppu.github.io/CALCULATOR/)
+# CALCULATOR [Visit](https://rakshithauppu.github.io/CALCULATOR/)
