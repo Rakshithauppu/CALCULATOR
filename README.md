@@ -22,5 +22,5 @@ Role:
 I led the development efforts for this project, handling everything from conceptualization to implementation.
 
 Outcome:
-The Interactive Calculator Web Application demonstrates my expertise in front-end development and my ability to create engaging and functional web applications using modern web technologies.
+The Interactive Calculator Web Application demonstrates my expertise in front-end development and my ability to create engaging and functional web applications using modern web technologies.<br/>
 Link: [https://rakshithauppu.github.io/CALCULATOR/]<br/>
